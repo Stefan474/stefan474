@@ -2,7 +2,7 @@
 [![MasterHead](https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif)](https://stefan-portfolio.webflow.io)
 <h1 align="center">Hi 👋, I'm Stefan</h1>
 <h3 align="center">A motivated young professional and a dev.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/XYLNY5V/ezgif-4-a1b882145b.gif">
+<img align="right" alt="Coding" src="https://i.ibb.co/XYLNY5V">
 
 - 🔭 I’m currently working on **leveling up my react skills**
 
