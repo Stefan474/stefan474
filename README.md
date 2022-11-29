@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **leveling up my react skills**
 
-- 🌱 Learning **Typescript, React and looking to get into Next.js and Node**
+- 🌱 Learning **Typescript, testing patterns and looking to get into Next.js and Node**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Stefan474?tab=repositories](https://github.com/Stefan474?tab=repositories)
 
