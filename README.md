@@ -1,6 +1,6 @@
 [![MasterHead](https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif)](https://stefan-portfolio.webflow.io)
 <h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">A motivated young dev looking to move to programming full time.</h3>
+<h3 align="center">Motivated dev transitioning into full-time programming — currently focused on building polished portfolio projects.</h3>
 <img align="right" width="400" alt="Coding" src="https://i.ibb.co/XYLNY5V/ezgif-4-a1b882145b.gif">
 
 - 🔭 I’m currently working on **polishing my portfolio projects**
