@@ -1,15 +1,15 @@
 [![MasterHead](https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif)](https://stefan-portfolio.webflow.io)
 <h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">A motivated young professional and a dev.</h3>
+<h3 align="center">A motivated young dev looking to move to programming full time.</h3>
 <img align="right" width="400" alt="Coding" src="https://i.ibb.co/XYLNY5V/ezgif-4-a1b882145b.gif">
 
-- 🔭 I’m currently working on **leveling up my react skills**
+- 🔭 I’m currently working on **polishing my portfolio projects**
 
-- 🌱 Learning **Typescript, testing patterns and looking to get into Next.js and Node**
+- 🌱 Learning **.net as my backend tool**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Stefan474?tab=repositories](https://github.com/Stefan474?tab=repositories)
 
-- 💬 Ask me about **Svelte. I love Svelte.**
+- 💬 Ask me about **the tft helper app**
 
 - 📫 Reach out at **stefan.cirovic97@gmail.com**
 
