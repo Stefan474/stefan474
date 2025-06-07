@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Stefan474?tab=repositories)
 
+- 🔐 Backend for Our Diary is private, but available on request — built with .NET, EF Core, Docker, and deployed.
+
 - 💬 Just finished the TFT Helper app - [check it out](https://tft-helper-sepia.vercel.app/)
 
 - 📫 **stefan.cirovic97@gmail.com**
