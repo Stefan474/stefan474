@@ -1,17 +1,17 @@
 [![MasterHead](https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif)](https://stefan-portfolio.webflow.io)
 <h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">Motivated dev transitioning into full-time programming — currently focused on building polished portfolio projects.</h3>
+<h3 align="center">Working on projects pretty much every day, say hi 🤗</h3>
 <img align="right" width="400" alt="Coding" src="https://i.ibb.co/XYLNY5V/ezgif-4-a1b882145b.gif">
 
-- 🔭 I’m currently working on **polishing my portfolio projects**
+- 🔭 I’m currently working on [**the our diary app**](https://github.com/Stefan474/our-diary-frontend/) (a long distance relationship app for couples) 💖
+ 
+- 🌱 Open to Full Stack or FE/BE jobs
 
-- 🌱 Learning **node/express as my backend tool**
+- 👨‍💻 All of my projects are available [here](https://github.com/Stefan474?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Stefan474?tab=repositories](https://github.com/Stefan474?tab=repositories)
+- 💬 Just finished the TFT Helper app - [check it out](https://tft-helper-sepia.vercel.app/)
 
-- 💬 Ask me about **the tft helper app**
-
-- 📫 Reach out at **stefan.cirovic97@gmail.com**
+- 📫 **stefan.cirovic97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,6 +31,6 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/svelte.png" alt="Svelte" title="Svelte"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="Godot" title="Godot"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 </div>
 
