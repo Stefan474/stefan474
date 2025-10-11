@@ -1,12 +1,10 @@
 [![MasterHead](https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif)](https://stefan-portfolio.webflow.io)
 <h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">Working on projects pretty much every day, say hi 🤗</h3>
+<h3 align="center">Working as a Next.js dev at Ruby Labs and on a side project with vue+go 🤗</h3>
 <img align="right" width="400" alt="Coding" src="https://i.ibb.co/XYLNY5V/ezgif-4-a1b882145b.gif">
 
-- 🔭 I’m currently working on [**the our diary app**](https://github.com/Stefan474/our-diary-frontend/) (a long distance relationship app for couples) 💖
+- 🔭 I’m currently working on a duo matchmaking up for 2XKO 👊
  
-- 🌱 Open to Full Stack or FE/BE jobs
-
 - 👨‍💻 All of my projects are available [here](https://github.com/Stefan474?tab=repositories)
 
 - 🔐 Backend for Our Diary is private, but available on request — built with .NET, EF Core, Docker, and deployed.
