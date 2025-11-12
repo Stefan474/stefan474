@@ -1,15 +1,15 @@
 [![MasterHead](https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif)](https://stefan-portfolio.webflow.io)
 <h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">Working as a Next.js dev at Ruby Labs and on a side project with vue+go 🤗</h3>
+<h3 align="center">Working as a Next.js dev at Ruby Labs and on an AI sideproject - AuroraOS - with electron/react/Go/Python/Langchain/llama.cpp 🤗</h3>
 <img align="right" width="400" alt="Coding" src="https://i.ibb.co/XYLNY5V/ezgif-4-a1b882145b.gif">
 
 - 🔭 I’m currently working on a duo matchmaking up for 2XKO 👊
  
 - 👨‍💻 All of my projects are available [here](https://github.com/Stefan474?tab=repositories)
 
-- 🔐 Backend for Our Diary is private, but available on request — built with .NET, EF Core, Docker, and deployed.
+- 🔐 The AI Project (Aurora) is private, will add a video demo soon. 
 
-- 💬 Just finished the TFT Helper app - [check it out](https://tft-helper-sepia.vercel.app/)
+- 💬 Something cool I made that people actually used - [TFT Helper](https://tft-helper-sepia.vercel.app/)
 
 - 📫 **stefan.cirovic97@gmail.com**
 
