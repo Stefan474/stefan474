@@ -3,11 +3,11 @@
 <h3 align="center">Working as a Next.js dev at Ruby Labs and on an AI sideproject - AuroraOS - with electron/react/Go/Python/Langchain/llama.cpp 🤗</h3>
 <img align="right" width="400" alt="Coding" src="https://i.ibb.co/XYLNY5V/ezgif-4-a1b882145b.gif">
 
-- 🔭 I’m currently working on a duo matchmaking up for 2XKO 👊
+- 🔭 Making a fully private character chat app that works offline and locally ✨
  
-- 👨‍💻 All of my projects are available [here](https://github.com/Stefan474?tab=repositories)
+- 👨‍💻 Public projects available [here](https://github.com/Stefan474?tab=repositories)
 
-- 🔐 The AI Project (Aurora) is private, will add a video demo soon. 
+- 🔐 AuroraOS is private, will add a video demo soon. 
 
 - 💬 Something cool I made that people actually used - [TFT Helper](https://tft-helper-sepia.vercel.app/)
 
