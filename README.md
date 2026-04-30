@@ -1,15 +1,15 @@
 [![MasterHead](https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif)](https://stefan-portfolio.webflow.io)
 <h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">Working as a Next.js dev at Ruby Labs and on an AI sideproject - AuroraOS - with electron/react/Go/Python/Langchain/llama.cpp 🤗</h3>
+<h3 align="center">Working as an UXE at GoDaddy (on a really cool AI infra/BE project atm tho 🔥🔥) and building a product in my free time - AuroraOS - with electron/react/Go/Python/Langchain/llama.cpp 🤗</h3>
 <img align="right" width="400" alt="Coding" src="https://i.ibb.co/XYLNY5V/ezgif-4-a1b882145b.gif">
 
 - 🔭 Making a fully private character chat app that works offline and locally ✨
  
 - 👨‍💻 Public projects available [here](https://github.com/Stefan474?tab=repositories)
 
-- 🔐 AuroraOS is private, will add a video demo soon. 
+- 🔐 AuroraOS is private, will add a video demo soon(™). 
 
-- 💬 Something cool I made that people actually used - [TFT Helper](https://tft-helper-sepia.vercel.app/)
+- 💬 Something cool I made that people actually used (if db is down blame supabase's free tier) - [TFT Helper](https://tft-helper-sepia.vercel.app/)
 
 - 📫 **stefan.cirovic97@gmail.com**
 
